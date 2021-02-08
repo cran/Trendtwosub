@@ -1,0 +1,13 @@
+b70b14bf3efb32bf1f9fc206f810afb0 *DESCRIPTION
+9bde754f124374858efeaa3f7dae85aa *NAMESPACE
+904ce2ff0d6f2b1c27ca9cfc6e478387 *R/Main.R
+905a57f943ae86c3b6eb89af913b5d2e *data/seedwt.multi.subsample.rda
+262da722365c8b1db622bf6d8e882345 *inst/extdata/NamedLevelsseedweightrans_periods_zerosV2.csv
+f5ba38b685e1199122828e09dea48d14 *man/chi.stat.Rd
+fce7db14851105c003a9d7fc70c7a574 *man/freq.less.Rd
+045bc2de02f98f9439225b7f33a04b3a *man/gen.decision.Rd
+5f46d64e376224ce5eb3f15c8f5b8ece *man/multi.freq.Rd
+98f0e823ad093accae2df3c5b82b74c3 *man/pow.ana.gen.decision.Rd
+f1fa80aa3c4b9870933cb94e51dbc049 *man/seedwt.multi.subsample.Rd
+35cc07f50922f3c48c0a617083d2979b *man/simu.ustat.pattern.Rd
+482f84f272e25a92d7bb3bc88d3b0265 *man/sub.test.Rd
